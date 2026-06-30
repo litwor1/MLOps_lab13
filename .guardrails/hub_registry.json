@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "validators": {
+    "tryolabs/restricttotopic": {
+      "import_path": "tryolabs_grhub_restricttotopic",
+      "exports": [
+        "RestrictToTopic"
+      ],
+      "installed_at": "2026-06-28T19:24:46.748367+00:00",
+      "package_name": "tryolabs-grhub-restricttotopic"
+    },
+    "guardrails/detect_jailbreak": {
+      "import_path": "guardrails_grhub_detect_jailbreak",
+      "exports": [
+        "DetectJailbreak"
+      ],
+      "installed_at": "2026-06-28T19:32:26.937844+00:00",
+      "package_name": "guardrails-grhub-detect-jailbreak"
+    }
+  }
+}
